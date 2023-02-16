@@ -3,6 +3,9 @@
 ## Description
 E-commerce backend that allows you to perform CRUD operations on the database.
 
+Github Link: https://github.com/lunchtimewhee/ecommerce-backend
+Video: https://app.castify.com/watch/b1577f70-b85b-463a-8e1c-f91fda61f8ce
+
 ## Installation Instructions
 1. Clone from https://github.com/lunchtimewhee/ecommerce-backend
 
