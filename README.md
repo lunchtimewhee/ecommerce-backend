@@ -26,7 +26,7 @@ E-commerce backend that allows you to perform CRUD operations on the database.
 ## Usage Information
 In Postman or Insomnia, you can utilize the CRUD operations on all models.
 
-![program](./images/image6.JPG)
+![step0](./images/image6.JPG)
 
 
 
